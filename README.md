@@ -399,18 +399,14 @@ These compare models on standard tasks. They're useful for a big-picture view, b
 - **Use `/compact` or `/new`** when a chat gets long. Long chats cost more.
 - **Check your usage** with `opencode stats`.
 - **Company code:** make sure your team is OK with sending code to DeepSeek before using it on work repos.
--
--
--
--## IMPORTANT REFRENCE LINKS
+
+
+## IMPORTANT REFRENCE LINKS
 
 - [opencode platform]https://opencode.ai/()
 
 - [Github Link](https://github.com/anomalyco/opencode/tree/v2)
 
 - [Documentation](https://opencode.ai/v2/docs/skills/)
-
-
--
 -
 -
